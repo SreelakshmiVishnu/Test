@@ -1,0 +1,8 @@
+/.no-header.php-cs-fixer.dist.php
+/CHANGELOG.md
+/CONTRIBUTING.md
+/depfile.yaml
+/LICENSE
+/phpstan-baseline.neon.dist
+/README.md
+/SECURITY.md
